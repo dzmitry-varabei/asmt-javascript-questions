@@ -20,6 +20,6 @@
 
 ## Contributors
 
-[Aliaksei Krauchanka](https://github.com/npocto-leshka)
-[Alex Karlovich](https://github.com/karlovich)
+* [Aliaksei Krauchanka](https://github.com/npocto-leshka)
+* [Alex Karlovich](https://github.com/karlovich)
 
