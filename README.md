@@ -43,10 +43,18 @@
 40. What CSS preprocessors you know/use? Pros and cons?
 41. Which types of inheritance implementation in JS you know/use?
 42. What are the difference between Responsive and Adaptive disign.
+43. 
+
+## Links
+
+1. https://docs.google.com/document/d/1gLEvF06OHGNWCUv3JE_1zpF9VNzekwgJBW1Zdfq31x8/edit
+2. https://docs.google.com/document/d/18I-la3gxJvYNJZwy4Y2jOB72vykmzF5856DTE1YGfDg/edit
+3. https://docs.google.com/document/d/1D1I2EIwtRhheuHQsL6525RZw7emvQ6pfhmmAc9iewHc/edit#heading=h.t5yedha8gsyt
 
 ## Contributors
 
 * [Aliaksei Krauchanka](https://github.com/npocto-leshka)
 * [Alex Karlovich](https://github.com/karlovich)
 * [Vadzim Budzishyn](https://github.com/vadzimbudzishyn)
+* [Kanstantsin Yatskevich](https://github.com/kyatskevich) 
 
