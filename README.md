@@ -45,10 +45,11 @@
 42. What are the difference between Responsive and Adaptive disign.
 43. 
 
-## Links
 
 ## Real Qs from committees (based on Performance Review Forms).
+
 --------------------------------------------------------------------------------------------
+
 1. Team management: how to ensure, team is on track, how to delegate tasks
 2. What are benefits and shortcomings of AngularJS, what do you like in 2.0 (if know)
 3. What are benefits of TDD?
@@ -74,7 +75,9 @@
 23. What are those skills which make you a good mentor?
 24. Have you ever had the chance to improve a process in any area of your work?
 25. What does transparency mean to you in terms of project managing?
+
 --------------------------------------------------------------------------------
+
 1. In your opinion, why is agile methodology so popular today?
 2. Could you please explain your current development process? Have you ever thought about switching to another development process (Kanban)? Are there advantages or disadvantages in switching to Kanban?
 3. How would you handle the situation when you realize that estimation was wrong  and you cannot complete some feature in time?
@@ -102,7 +105,9 @@
 26. What would you do if you can’t find the solution?
 27. Besides the university trainee program have you had the chance to lead a team or some people yet? How did you start ramping-up people?
 28. Please talk about javascript event handling (capturing/bubbling).
+
 ----------------------------------------------------------------------------------
+
 1. How do you improve the quality of your work? How can you be sure that your work is well done?
 2. How often do you refactor code? What are the reasons which force you to refactor code?
 3. Have you ever chance to increase the performance of your team? What would you do if you need to speed up development process in your team?
