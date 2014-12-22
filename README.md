@@ -139,6 +139,10 @@
 29. Could you please compare kanban and scrum?
 30. Exactly what kind of documentations did you create for your project?
 31. How do you test your code?
+32. 
+
+## Want more?
+https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
 ## Contributors
 
