@@ -105,6 +105,8 @@
 26. What would you do if you can’t find the solution?
 27. Besides the university trainee program have you had the chance to lead a team or some people yet? How did you start ramping-up people?
 28. Please talk about javascript event handling (capturing/bubbling).
+29. What was the most interesting crossbrowser issue you came across? How did you fix it?
+What tools are you using to test ability of your site to look equally in necessary browsers?
 
 ----------------------------------------------------------------------------------
 
