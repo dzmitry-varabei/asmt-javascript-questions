@@ -142,6 +142,46 @@ What tools are you using to test ability of your site to look equally in necessa
 31. How do you test your code?
 32. 
 
+------------------------------------------
+- How do you keep yourself up-to-date?
+- What FED technologies do you consider that will be very popular in the nearest future. How do you exploit and promote them?
+- How do you rate candidates? What skills do you rate as the most important for the company?
+- How do you prepare for the interview? Do you use tricky questions or practice tasks?
+- Describe how would you interview people for the certain project. What kind of questions or topics are most important to get the right candidate?"
+- What are the most important things for you in the feedback for the intreviewee
+- We've seen in your PRF that some of your mentees failed to complete the course. Could you describe why and propose how to avoid such situations in future
+- What were your pitfalls for delivering project audit while you were contributing to the FED CC
+- What challenges or big goals would you like set for yourself being Cheif Software Engineer
+- How will you convince your team member to start using TDD? What are the benefits of TDD?
+- Imagine situtation: your customer would like to use some outdated technology which not you and not your team would like to use. What willl you do?
+- What build tools are you using in your projects? Why?
+- What do you think about isomorphic applications? What are their benefits? What problems can they cause?
+- What are the signs of the bad code?
+- Roman, you wrote that one of your goal is to take a role of JS/FE Technical Lead. Can you explain what responsibilities you do on this Project as a TL?
+- Roman, imagine the conflict situation in your team: 2 specialists discussed 2 different approaches and this technical issue became personal conflict. Your actions?
+- What results of mentoring (for yourself) can you mention?
+- How do you usally deal with perfomance issues?
+- Which perfomance issues do you know?
+- Which tools you use to trace them?
+- Which technices you now or applied to solve memory leaks  
+- Possible ways to speedup your javascript code execution time? Hidden classes? try/catch?
+- What is hardware acceleration?
+- What is code review in your opinion?
+- How you'll setup code review for team of 5 devs with different skillsets?
+- What are your criterias of Good Code that can be merged during review process?
+- Common dev environent setup? What dev environment should include for FE app?
+- Some developer from project you technically lead/coordinate came to you with proposal to apply ES6 (ECMA2015). Your actions? Will you reject that proposal? Apply? Why it worth or not worth to apply?
+- What is WeakMap/Symbol/Set? 
+- What const is for, your opinion?
+- Temprory dead-zone
+- What is good architecture? What are the goals that architecture tries to solve?
+- Which software architecrure treds you faced with? Docker and microservices?
+- What is integrational and e2e tesing?
+- Which problems these solves?
+- Best practices? 
+- Drawback? Coverage?
+- What is IoC? 
+
 ## Want more?
 https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
