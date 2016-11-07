@@ -1,11 +1,9 @@
-## Список вопросов:
+## Real Qs from committees (based on Performance Review Forms).
 
-1. Что для вас значит быть Senior Software Developer?
 2. Какие HTML5 фичи ты знаешь и какие из них ты бы использовал на своем проекте?
 3. Что ты понимаешь под performance optimizations?
-4. Расскажи о Critical Rendering Path.
 5. Какими тулами ты пользовался  при улучшении перформанса?
-6. Каким образом ты понял что перформанс  улучшен?
+6. Каким образом ты понял что перформанс улучшен?
 7. Расскажи о подходах включения скриптов со стилями на страницу.
 8. Какие memory leaks тебе удалось найти и что для их поиска ты использовал?
 9. Что ты понимаешь под хорошим кодом?
@@ -21,7 +19,6 @@
 19. Как бы ты сделал ... (проект, процесс, воркфлоу) в идеальном мире (сговорчивый заказчик, есть все необходымые тулы и время).
 
 20. What is the main difference from your point of view between JS framework XXX and YYY.
-21. What "use strict" declaration means? How it helps you on your project?
 22. What are the differences between TDD and BDD aproaches. What JS frameworks for TDD/BDD you know?
 23. Please explane the event bubbling process in JS.
 24. How do you estimate your tasks?
@@ -42,20 +39,13 @@
 39. How you will improve functionality of 3rd party library on your project?
 40. What CSS preprocessors you know/use? Pros and cons?
 41. Which types of inheritance implementation in JS you know/use?
-42. What are the difference between Responsive and Adaptive disign.
 43. What was the most interesting crossbrowser issue you came across? How did you fix it?
 What tools are you using to test ability of your site to look equally in necessary browsers?
-
-
-## Real Qs from committees (based on Performance Review Forms).
-
---------------------------------------------------------------------------------------------
 
 1. Team management: how to ensure, team is on track, how to delegate tasks
 2. What are benefits and shortcomings of AngularJS, what do you like in 2.0 (if know)
 3. What are benefits of TDD?
 4. How do you handle conflicts?
-5. What steps improved after introducing bower? (I personally interested in)
 6. Have you ever practiced code review on your project? How would you setup code review process from scratch?
 7. In general, could you please describe the role of automation in development process?
 8. How do you think what was the quality, which helped you to achieve leading role? How did you managed to accomplish this, convinced others that you are the person to play a lead role.
@@ -83,11 +73,8 @@ What tools are you using to test ability of your site to look equally in necessa
 2. Could you please explain your current development process? Have you ever thought about switching to another development process (Kanban)? Are there advantages or disadvantages in switching to Kanban?
 3. How would you handle the situation when you realize that estimation was wrong  and you cannot complete some feature in time?
 4. In general, how do you provide user story estimations? Is it story points or just actual time(days/hours)? In your opinion, which approach is better?
-5. git vs svn
-6. ActionScript vs JavaScript
 7. self-development - ways, techniques, practices, etc.
 8. es5 / es6 new features || language supersets (e.g. SASS, TypeScript)
-9. responsive design vs adaptive design
 11. What was the most difficult/interesting/exciting about mentoring new people?
 12. Code review - have you tried it, what is it for, is it helpful? What are the shortcomings & benefits of it?
 13. Your customer wants a new feature to be done, which requires usage of some absolutely new technology which you have no idea about. Your actions in this case?
@@ -134,13 +121,11 @@ What tools are you using to test ability of your site to look equally in necessa
 23. Could you let us know how you usually follow the latest technologies?Can you mention a few example you just read about and being excited to make a try with?
 24. Could you mention a few design patterns you usually use in your front end code?
 25. Do you perform any technique to manage your time?
-26. Do you have a review process in your team?
 27. Could you please tell us what your daily routine in the office is like?
 28. Have you ever had the chance to influence a decision?
 29. Could you please compare kanban and scrum?
 30. Exactly what kind of documentations did you create for your project?
 31. How do you test your code?
-32. 
 
 ------------------------------------------
 - How do you keep yourself up-to-date?
