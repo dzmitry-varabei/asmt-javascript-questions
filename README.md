@@ -167,6 +167,40 @@ What tools are you using to test ability of your site to look equally in necessa
 - Drawback? Coverage?
 - What is IoC? 
 
+--------------------
+- How do you keep yourself up-to-date?
+- What FED technologies do you consider that will be very popular in the nearest future. How do you exploit and promote them?
+- How do you rate candidates? What skills do you rate as the most important for the company?
+- How do you usally deal with perfomance issues?
+- What kind of perfomance issues do you know?
+- Which tools you use to trace them?
+- Which technices you now or applied to solve memory leaks? Describe some of your personal experience in solving such issues.
+- Possible ways to speedup your javascript code execution time? Hidden classes? try/catch?
+- What is hardware acceleration?
+- What is code review in your opinion?
+- How you'll setup code review for team of 5 devs with different skillsets?
+- What are your criterias of Good Code that can be merged during review process?
+- Common dev environent setup? What dev environment should include for FE app?
+- What is good architecture? What are the goals that architecture tries to solve?
+- What MV*-like architectural patterns do you know? Have used any? What are the differences?
+- What is Flux? What's the difference from MV*-like approach?
+- Redux vs Flux - differences?
+- Browser caching possibilities? 
+- What's your experience with in-browser storages? IndexedDB? What type of db is indexeddb? What are the differences from RDBs and NoSQL dbs?
+- Experience in building mobile, desktop, tv or any other different from the browser environment applications?
+
+
+###Task
+"You are requested as an architect and technology consultant into project aiming to manufacture Google Spreadsheets analogue (full-stack solution)
+
+Customer asked to prepare technology stack (both for back-end and front-end) for the target application (frameworks, libs, bundle and build tools, testing).
+Customer also wants to know a vision on possible application architecture.
+
+Opportunity details
+Target devices: PC, Tablet*
+Target browser: Modern Browsers 
+Team: 4 persons with different skillsets (D1, D2, D3, D4) (we don't need to provide a team composition, since it could be one of the questions)"
+
 ## Want more?
 https://github.com/h5bp/Front-end-Developer-Interview-Questions
 
