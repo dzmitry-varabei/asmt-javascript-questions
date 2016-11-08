@@ -1,36 +1,68 @@
-## Real Qs from committees (based on Performance Review Forms).
+## Real questions from committees (based on Performance Review Forms).
 
-2. Какие HTML5 фичи ты знаешь и какие из них ты бы использовал на своем проекте?
-3. Что ты понимаешь под performance optimizations?
-5. Какими тулами ты пользовался  при улучшении перформанса?
-6. Каким образом ты понял что перформанс улучшен?
-7. Расскажи о подходах включения скриптов со стилями на страницу.
-8. Какие memory leaks тебе удалось найти и что для их поиска ты использовал?
-9. Что ты понимаешь под хорошим кодом?
-10. Как вы поддерживаете качество кода на проекте?
-11. Какая методология разработки используется на вашем проекте?
-12. Что тебе не нравится и что можно бы было улучшить?
-13. Расскажи чем отличаются  MV* паттерны? Назови их реализации на примере фреймворков.
-14. Представь, что тебе нужно подобрать фреймворк для проекта. На чем ты будешь основываться при его выборе?
-15. Как можно использовать  тестирование при переписывании легаси кода на новую кодовую базу?
-16. Расскажи побольше про какие-нибудь паттерны, которые тебе приходилось использовать?
-17. Если пилишь свой фреймворк на проекте. Выбери любой из тебе знакомых (AngularJS, Backbone, ect) и сравни с разрабатываемым. Найди плюсы и минусы. Почему выбор пал на разработку именно кастомного фреймворка.
-18. Методология скрам. Стори поинты. + как вы эстимируете таски-стори на проекте.
-19. Как бы ты сделал ... (проект, процесс, воркфлоу) в идеальном мире (сговорчивый заказчик, есть все необходымые тулы и время).
+###Unit/Integration testing
+- Как можно использовать  тестирование при переписывании легаси кода на новую кодовую базу?
+- What are the differences between TDD and BDD aproaches. What JS frameworks for TDD/BDD you know?
+- What tools are you using to test ability of your site to look equally in necessary browsers?
+- What is integrational and e2e tesing?
+- Which problems these solves?
+- Best practices? 
+- Drawback? Coverage?
 
-20. What is the main difference from your point of view between JS framework XXX and YYY.
-22. What are the differences between TDD and BDD aproaches. What JS frameworks for TDD/BDD you know?
-23. Please explane the event bubbling process in JS.
-24. How do you estimate your tasks?
-25. What criterias you will use to prioritize tasks between you and your mentee/subordinates?
-26. Which code review tools you know/use? Your criterias for good code.
-27. What differences between Scrum and Kanban metodologies. Why Scrum/Kanban/Waterfall is more applicable for you project?
-28. Talk about build process/CI on your project. Why Grunt/Gulp/... is used?
+###Browser internals. Performance optimization.
+- Что ты понимаешь под performance optimizations?
+- Какими тулами ты пользовался  при улучшении перформанса?
+- Каким образом ты понял что перформанс улучшен?
+- Какие memory leaks тебе удалось найти и что для их поиска ты использовал?
+- How do you usally deal with perfomance issues?
+- What kind of perfomance issues do you know?
+- Which tools you use to trace them?
+- Which technices you now or applied to solve memory leaks? Describe some of your personal experience in solving such issues.
+
+###Code quality
+- Что ты понимаешь под хорошим кодом?
+- Как вы поддерживаете качество кода на проекте?
+- Какая методология разработки используется на вашем проекте?
+- Что тебе не нравится и что можно бы было улучшить?
+- Which code review tools you know/use? Your criterias for good code.
+
+###Frameworks
+- What is the main difference from your point of view between JS framework XXX and YYY.
+
+###Architecture and design patterns
+- Расскажи чем отличаются  MV* паттерны? Назови их реализации на примере фреймворков.
+- Представь, что тебе нужно подобрать фреймворк для проекта. На чем ты будешь основываться при его выборе?
+- Расскажи побольше про какие-нибудь паттерны, которые тебе приходилось использовать?
+- Если пилишь свой фреймворк на проекте. Выбери любой из тебе знакомых (AngularJS, Backbone, ect) и сравни с разрабатываемым. Найди плюсы и минусы. Почему выбор пал на разработку именно кастомного фреймворка.
+- Can you provide examples of GoF/GRASP patterns used on your project? Do you know what SOLID principles means?
+- Why are design patterns are good?
+- What is good architecture? What are the goals that architecture tries to solve?
+- What MV*-like architectural patterns do you know? Have used any? What are the differences?
+- What is Flux? What's the difference from MV*-like approach?
+- Redux vs Flux - differences?
+- What is IoC? 
+- What is good architecture? What are the goals that architecture tries to solve?
+- Which software architecrure treds you faced with? Docker and microservices?
+
+###SDLC
+- Методология скрам. Стори поинты. + как вы эстимируете таски-стори на проекте.
+- Как бы ты сделал ... (проект, процесс, воркфлоу) в идеальном мире (сговорчивый заказчик, есть все необходымые тулы и время).
+- How do you estimate your tasks?
+- What criterias you will use to prioritize tasks between you and your mentee/subordinates?
+- What differences between Scrum and Kanban metodologies. Why Scrum/Kanban/Waterfall is more applicable for you project?
+- Talk about build process/CI on your project. Why Grunt/Gulp/... is used?
+- What you will do in case you see that your original estimation was wrong and you need overtime to finish till deadline.
+- Talk about SDLC in context of your project.
+
+###JS & DOM
+- Please explane the event bubbling process in JS.
+
+###Other
+
+
 29. Please compare pros and cons for Single-page and Multi-page application approaches.
-30. What you will do in case you see that your original estimation was wrong and you need overtime to finish till deadline.
-31. Talk about SDLC in context of your project.
-32. Can you provide examples of GoF/GRASP patterns used on your project? Do you know what SOLID principles means?
-33. Why are design patterns are good?
+
+
 34. What sources did you use for keeping you knowledge up to date and learning new thing?
 35. What criterias you will use to select technologies for your project?
 36. How you will you design/implement 2-way binding without 3rd party libraries and frameworks? Which patterns you will use?
@@ -40,7 +72,7 @@
 40. What CSS preprocessors you know/use? Pros and cons?
 41. Which types of inheritance implementation in JS you know/use?
 43. What was the most interesting crossbrowser issue you came across? How did you fix it?
-What tools are you using to test ability of your site to look equally in necessary browsers?
+
 
 1. Team management: how to ensure, team is on track, how to delegate tasks
 2. What are benefits and shortcomings of AngularJS, what do you like in 2.0 (if know)
@@ -159,32 +191,22 @@ What tools are you using to test ability of your site to look equally in necessa
 - What is WeakMap/Symbol/Set? 
 - What const is for, your opinion?
 - Temprory dead-zone
-- What is good architecture? What are the goals that architecture tries to solve?
-- Which software architecrure treds you faced with? Docker and microservices?
-- What is integrational and e2e tesing?
-- Which problems these solves?
-- Best practices? 
-- Drawback? Coverage?
-- What is IoC? 
+
+
+
 
 --------------------
 - How do you keep yourself up-to-date?
 - What FED technologies do you consider that will be very popular in the nearest future. How do you exploit and promote them?
 - How do you rate candidates? What skills do you rate as the most important for the company?
-- How do you usally deal with perfomance issues?
-- What kind of perfomance issues do you know?
-- Which tools you use to trace them?
-- Which technices you now or applied to solve memory leaks? Describe some of your personal experience in solving such issues.
+
 - Possible ways to speedup your javascript code execution time? Hidden classes? try/catch?
 - What is hardware acceleration?
 - What is code review in your opinion?
 - How you'll setup code review for team of 5 devs with different skillsets?
 - What are your criterias of Good Code that can be merged during review process?
 - Common dev environent setup? What dev environment should include for FE app?
-- What is good architecture? What are the goals that architecture tries to solve?
-- What MV*-like architectural patterns do you know? Have used any? What are the differences?
-- What is Flux? What's the difference from MV*-like approach?
-- Redux vs Flux - differences?
+
 - Browser caching possibilities? 
 - What's your experience with in-browser storages? IndexedDB? What type of db is indexeddb? What are the differences from RDBs and NoSQL dbs?
 - Experience in building mobile, desktop, tv or any other different from the browser environment applications?
