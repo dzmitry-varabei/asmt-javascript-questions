@@ -64,6 +64,13 @@
 - Which technices you know or applied to solve memory leaks? Describe some of your personal experience in solving such issues.
 - Какие memory leaks тебе удалось найти и что для их поиска ты использовал?
 
+###Security
+- Same origin policy, CORS
+- Different types of XSS?
+- How do you prevent XSS?
+- Content Security Policy headers values, quote few examples?
+- How would you initiate manual security code review of Node.js applications?
+
 ###Architecture and design patterns
 - Please compare pros and cons for Single-page and Multi-page application approaches.
 - Can you provide examples of GoF/GRASP patterns used on your project? Do you know what SOLID principles means?
