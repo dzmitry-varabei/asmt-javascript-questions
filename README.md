@@ -186,6 +186,9 @@
 - Could you please tell us what your daily routine in the office is like?
 - Could you let us know how you usually follow the latest technologies? Can you mention a few example you just read about and being excited to make a try with?
 - Have you ever had the chance to improve a process in any area of your work?
+- Расскажите о нагружённом и сложном дне за последние 2 недели. Что пошло не так? Как вы с этим справились?
+- Были ли у вас демотивированные сотрудники? Расскажите, что вы предприняли, чтобы исправить ситуацию. 
+
 
 ###Task
 ```Text
