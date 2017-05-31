@@ -1,6 +1,6 @@
 ## Real questions from committees (based on Performance Review Forms).
 
-###Code quality
+### Code quality
 - Which code review tools you know/use? Your criterias for good code.
 - What is code review in your opinion?
 - How you'll setup code review for team of 5 devs with different skillsets?
@@ -19,7 +19,7 @@
 - Какая методология разработки используется на вашем проекте?
 - Что тебе не нравится и что можно бы было улучшить?
 
-###Unit/Integration testing
+### Unit/Integration testing
 - What are the differences between TDD and BDD aproaches. What JS frameworks for TDD/BDD you know?
 - What tools are you using to test ability of your site to look equally in necessary browsers?
 - What's the difference between unit, functional, acceptance, and integration tests?
@@ -32,7 +32,7 @@
 - What is your Unit Tests covering process? What is acceptable Code Coverage level?
 - Как можно использовать  тестирование при переписывании легаси кода на новую кодовую базу?
 
-###JS && DOM && CSS
+### JS && DOM && CSS
 - What is WeakMap/Symbol/Set?
 - What const is for, your opinion?
 - ES6 Temporal dead-zone
@@ -54,7 +54,7 @@
 - What build tools are you using in your projects? Why?
 - Как бы ты сделал ... (проект, процесс, воркфлоу) в идеальном мире (сговорчивый заказчик, есть все необходымые тулы и время).
 
-###Browser internals. Performance optimization.
+### Browser internals. Performance optimization.
 - Possible ways to speedup your javascript code execution time? Hidden classes? try/catch?
 - What is hardware acceleration?
 - Что ты понимаешь под performance optimizations?
@@ -64,14 +64,14 @@
 - Which technices you know or applied to solve memory leaks? Describe some of your personal experience in solving such issues.
 - Какие memory leaks тебе удалось найти и что для их поиска ты использовал?
 
-###Security
+### Security
 - Same origin policy, CORS
 - Different types of XSS?
 - How do you prevent XSS?
 - Content Security Policy headers values, quote few examples?
 - How would you initiate manual security code review of Node.js applications?
 
-###Architecture and design patterns
+### Architecture and design patterns
 - Please compare pros and cons for Single-page and Multi-page application approaches.
 - Can you provide examples of GoF/GRASP patterns used on your project? Do you know what SOLID principles means?
 - Why are design patterns are good?
@@ -92,7 +92,7 @@
 - Расскажи чем отличаются  MV* паттерны? Назови их реализации на примере фреймворков.
 - Расскажи побольше про какие-нибудь паттерны, которые тебе приходилось использовать?
 
-###Frameworks
+### Frameworks
 - What is the main difference from your point of view between JS framework XXX and YYY.
 - What are benefits and shortcomings of AngularJS, what do you like in 2.0 (if know)
 - What is(are) killer feature(-es) of Angular JS, what would you personally highlight in this technology?
@@ -102,14 +102,14 @@
 - Представь, что тебе нужно подобрать фреймворк для проекта. На чем ты будешь основываться при его выборе?
 - Если пилишь свой фреймворк на проекте. Выбери любой из тебе знакомых (AngularJS, Backbone, ect) и сравни с разрабатываемым. Найди плюсы и минусы. Почему выбор пал на разработку именно кастомного фреймворка.
 
-###Interview
+### Interview
 - How do you rate candidates? What skills do you rate as the most important for the company?
 - How do you prepare for the interview? Do you use tricky questions or practice tasks?
 - Describe how would you interview people for the certain project. What kind of questions or topics are most important to get the right candidate?"
 - What are the most important things for you in the feedback for the intreviewee
 - Have you participated in technical interviews? If yes, what was the most challenged question from you?
 
-###Mentoring
+### Mentoring
 - What was the most difficult/interesting/exciting about mentoring new people?
 - We've seen in your PRF that some of your mentees failed to complete the course. Could you describe why and propose how to avoid such situations in future
 - Besides the university trainee program have you had the chance to lead a team or some people yet? How did you start ramping-
@@ -117,7 +117,7 @@
 - Could you please describe the University Trainee Program? What was your role?
 - What results of mentoring (for yourself) can you mention?
 
-###Team managment & Communication
+### Team managment & Communication
 - Team management: how to ensure, team is on track, how to delegate tasks
 - Roman, imagine the conflict situation in your team: 2 specialists discussed 2 different approaches and this technical issue became personal conflict. Your actions?
 - Roman, you wrote that one of your goal is to take a role of JS/FE Technical Lead. Can you explain what responsibilities you do on this Project as a TL?
@@ -146,7 +146,7 @@
 - Customer requests to migrate Desktop version of the product to mobile devices. Could you please describe your specific questions?
 - Some developer from project you technically lead/coordinate came to you with proposal to apply ES6 (ECMA2015). Your actions? Will you reject that proposal? Apply? Why it worth or not worth to apply?
 
-###Agile Scrum Kanban
+### Agile Scrum Kanban
 - Методология скрам. Стори поинты. + как вы эстимируете таски-стори на проекте.
 - How do you estimate your tasks?
 - What criterias you will use to prioritize tasks between you and your mentee/subordinates?
@@ -167,7 +167,7 @@
 - How do you prioritize your tasks? How do you estimate your tasks? For example you need to decide which task is more important for you right now. What will you do?
 
 
-###Other
+### Other
 - What sources did you use for keeping you knowledge up to date and learning new thing?
 - How do you keep yourself up-to-date?
 - What FED technologies do you consider that will be very popular in the nearest future. How do you exploit and promote them?
@@ -190,7 +190,7 @@
 - Были ли у вас демотивированные сотрудники? Расскажите, что вы предприняли, чтобы исправить ситуацию. 
 
 
-###Task
+### Task
 ```Text
 You are requested as an architect and technology consultant into project
 aiming to manufacture Google Spreadsheets analogue (full-stack solution)
